@@ -1,0 +1,7 @@
+# Ignorar todos os arquivos executáveis
+*.[eE][xX][eE]
+*.[oO]
+*.[aA]
+*.out
+
+
