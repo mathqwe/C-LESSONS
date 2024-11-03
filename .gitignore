@@ -3,5 +3,10 @@
 *.[oO]
 *.[aA]
 *.out
+*/loops
+*/soma_loop
+*/contagem_regressiva
+*/.vscode
+*.gitignore
 
 
